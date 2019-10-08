@@ -1,0 +1,189 @@
+### 04/02/19 ###
+Recieved these genre from Jesus via Email.
+
+Amana Honda - L-T
+Calochortus Pursh - C
+Cardiocrinum Endlicher - L-L
+Clintonia Rafinesque - M
+Erythronium L. - L-T
+Fritillaria L. - L-L
+Gagea Salisbury - L-T
+Lilium L. - L-L
+Medeola L. - M
+Notholirion Boissier - L-L
+Prosartes D. Don - S
+Scoliopus Torrey - S
+Streptopus Michaux - S
+Tricyrtis Wallich - S
+Tulipa L. - L-T
+
+Over the next month I added taxa from these groups to the spreadsheet also included in the Git.
+
+### 04/19/19 ###
+Recieved these genre from Jesus via Email.
+
+Alstroemeria L. 
+Bomarea Mirbel 
+Drymophila R. Brown 
+Luzuriaga Ruiz & Pavon - L
+
+From now until I return to Ithaca for the summer species from these groups will be added to the spreadsheet.
+
+### 05/03/19 ###
+I've halted work on the database to study up for finals. Will start up again after finals are over!
+
+### 06/17/19 ###
+Met with Jesus today to discuss our next steps for the summer. Will be working on mainly the database and maybe the rice projcet? Classes start the 24th and those are held from 11:00 AM to 12:35 PM so I plan on coming into the lab from 10:00 AM to 11:00 AM and then 1:00 PM to 5:00 PM (Monday - Thursday). Will suggest Rice Project stuff on Fridays if extra pay is possible.
+
+Methods for ASR Project (Discrete)
+- Search through Systematic Biology!
+- Record in Execl (Citation/Data Present?/ Data Link?)
+- Look for Data Repositories (Framework, Dryad, Github, etc...)
+- Look at Supplementray Data
+- Look at Extensions (.xml/.csv/.tree)
+- Look at Methods
+Key Words: ASR, AS Estimation, AS Morpohlogical Evolution, ASI, "MK1", "MK2"
+Key Programs: Mesquite, Phytools, CoreHMM, BEAST, APE
+
+Questions for Jesus:
+- Drymophila species count? Doesn't matter
+- How do I tackle the inflorescence of "single"? single = single
+- Should I delete all the species in which I could not find any information?
+
+### 06/18/19 ###
+Trying to complete as much as I can for the database collection and then I will move on towards the ASR project. Meeting with Jesus to discuss questions from today and yesterday. Started Schickendantziella family.
+
+Questions for Jesus:
+- Should I call all of Calochortus a cyme? Question for later
+- If I can't find an authority for the entry should I throw it out? Get rid of it!
+- Need help finding species for Amana
+- Need help finding infloresence data for Lilium / Notholirion /
+- The only monograph for Streptopus is from 1841? Is this something that I should still be adding to the database? (Refrence is located in the document.) Use it!
+
+### 06/19/19 ###
+Meeting with Jesus tomorrow to discuss the questions that I have compiled and also attending Lab Meeting to observe his talk. Also need to meet with Chelsea for her to sign off on my working papers. According to the Plant list I need to add the following in order to complete the Liliaceae genus. 
+
+Focus on Eker, Ismail, Mehmet Tekin Babac, and Mehmet Koyuncu. "Revision of the genus Tulipa L.(Liliaceae) in Turkey." Phytotaxa 157.1 (2014): 001-112. tomorrow!
+
+- Pseudogaltonia
+- Oakesiella
+- Nomocharis
+
+### 06/20/19 ###
+Jesus Meeting Notes:
+-See questions above for other answers
+-Write Thryse if it says Thryse.
+-Fill in the rest of Mobot Link for Lilliaes
+-Start a Type List to get a sense of how many states there are!! (Cyme, Umbel, ...)
+
+### 06/24/19 ###
+I have started implementing the notes that were outlined above. Will also work to finish data collection by the end of the week!
+
+Current Type List (Gen. 1)
+Cyme
+Umbel
+Thryse
+Raceme
+Single
+Reduced Monochasium
+Panicle
+
+### 07/02/19 ###
+Was able to resolve the issue I was having with Git by readding the folder to my desktop. I will now continue adding stuff to the database. Also was assigned a lab for R by Jesus. Will need to complete before our next meeting.
+
+### 07/10/19 ###
+Lab Meeting Notes:
+
+Ask about Chelsea's promotion!
+
+Need to finish adding these families to the database:
+Colchicaceae
+Smilacaceae
+Rhipogonaceae
+
+### 07/11/19 ###
+Things to Do-
+1. Finish collecting data
+2. Read in Tree from Jesus
+3. Understand and go through Jesus's script for Data Wrangle
+4. Possibly replace Jesus's Data Wrangle code.
+5. Use scripts to create ASR following their path with my data if Jesus's doesn't work!
+
+***Set my working directory to the chapter 1 directory*** 
+
+***Ignore write.cvs and below!**
+
+-Be careful when reading files in and stuff!
+Detemining Data Structure -
+
+1. Go from inside out and use the View() ~ fuction
+
+### 07/15/19 ###
+Today I am going to work on finishing up the database and also creating an ASR from it. I need to find the tree that Jesus wants me to read in though.
+
+Struggling with:
+Androcymbiu
+
+### 07/19/19 ###
+Was able to complete coverage of the Liliaceae family. Still need to double check that I have compiled everything that I could've. Meeting the Jesus to start the ASR process and hopefully obtain some preliminary data and start my poster!
+
+### 07/23/19 ###
+-Add data as long as it has a ref. (Done)
+-Make a powerpoint for all SEM pictures that I could find! A slide per genus species & citation. *(Inflorescnce not flower!)* (Done)
+-Read the papers that are cited. (In Progress)
+-Write the steps for development and restate the paper. (In Progress)
+-Also have ASR?
+
+### 07/25/19 ###
+List of Ref. / * if contains SEM pictures
+
+- Kiani, Mahmoud, et al. "Iran supports a great share of biodiversity and floristic endemism for Fritillaria spp.(Liliaceae): A review." Plant diversity 39.5 (2017): 245-262.
+- Mathew, Brian. "A taxonomic and horticultural review of Erythronium L.(Liliaceae)." Botanical Journal of the Linnean Society 109.4 (1992): 453-471.
+- Widden, Paul. "The morphology of vesicular–arbuscular mycorrhizae in Clintonia borealis and Medeola virginiana." Canadian Journal of Botany 74.5 (1996): 679-685.
+- Hayashi, Kazuhiko, et al. "Molecular systematics in the genus Clintonia and related taxa based on rbcL and matK gene sequence data." Plant species biology 16.2 (2001): 119-137.
+- Peterson, Angela, Igor G. Levichev, and Jens Peterson. "Systematics of Gagea and Lloydia (Liliaceae) and infrageneric classification of Gagea based on molecular and morphological data." Molecular Phylogenetics and Evolution46.2 (2008): 446-465.
+- Zarrei, Mehdi, et al. "Systematic revision of the genus Gagea Salisb.(Liliaceae) in Iran." Botanical Journal of the Linnean Society 154.4 (2007): 559-588.
+- Peterson, Angela, Igor G. Levichev, and Jens Peterson. "Systematics of Gagea and Lloydia (Liliaceae) and infrageneric classification of Gagea based on molecular and morphological data." Molecular Phylogenetics and Evolution46.2 (2008): 446-465.
+
+
+- Hofreiter, Anton, and E. Rodríguez. "The Alstroemeriaceae in Peru and neighbouring areas." Rev. peru. biol 13.1 (2006): 5-69. *leaf surface 
+- Sanso, Andrea Mariel, M. Camargo de Assis, and Cecilia Carmen Xifreda. "Alstroemeria: a charming genus." V International Symposium on New Floricultural Crops 683. 2003. *seed and pollen
+
+
+- Ownbey, Marion. "A monograph of the genus Calochortus." Annals of the Missouri Botanical Garden 27.4 (1940): 371-560.
+- Ohara, Masashi, et al. "7: Cardiocrinum cordatum (Thunb.) Makino (Liliaceae)." Plant species biology 21.3 (2006): 201-207.
+- Utech, Frederick H. "Biology of Scoliopus (Liliaceae) I. Phytogeography and systematics." Annals of the Missouri Botanical Garden (1992): 126-142.
+- Williams, Louis O. "Notes on the family Corsiaceae." Botanical Museum Leaflets, Harvard University 12.5 (1946): 179-182.
+- Stroh, Esther D. Remnants of the past: Ecology of relict Anticlea populations in Missouri. University of Missouri-Columbia, 2005.
+- Huang, Yun?Feng, et al. "Chionographis shiwandashanensis sp. nov.(Melanthiaceae) from southern Guangxi, China." Nordic Journal of Botany 29.5 (2011): 605-607.
+- Punsalan, April P., Beverly Collins, and Laura E. DeWald. "The germination ecology of Helonias bullata L.(Swamp Pink) with respect to dry, saturated, and flooded conditions." Aquatic botany 133 (2016): 17-23.
+- Fuse, Shizuka, and Minoru N. Tamura. "Biosystematic studies on the genus Heloniopsis (Melanthiaceae) I. Phylogeny inferred from plastid DNA sequences and taxonomic implications." Nordic journal of botany 34.5 (2016): 584-595.
+- Zomlefer, Wendy B., et al. "Infrageneric phylogeny of Schoenocaulon (Liliales: Melanthiaceae) with clarification of cryptic species based on ITS sequence data and geographical distribution." American journal of botany 93.8 (2006): 1178-1192.
+- Brasher, Jeffrey W. "A New Combination in Toxicoscordion (Melanthiaceae) for the Rocky Mountain Region, North America." Novon: A Journal for Botanical Nomenclature 19.3 (2009): 295-297.
+
+
+- Vance, Nan C., Peter Bernhardt, and Retha M. Edens. "Pollination and seed production in Xerophyllum tenax (Melanthiaceae) in the Cascade Range of central Oregon." American Journal of Botany 91.12 (2004): 2060-2068. *pollen
+- Hsu, Tsai-Wen, et al. "Ypsilandra (Melanthiaceae; Liliaceae sensu lato), a new generic record for Taiwan." Bot Stud 52 (2011): 99-104.
+- Chase, Mark W., Paula J. Rudall, and John G. Conran. "New circumscriptions and a new family of asparagoid lilies: genera formerly included in Anthericaceae." Kew Bulletin (1996): 667-680.
+
+### 07/31/19 ###
+Since none of my sources have SEM images of the inflorescene I am going to look on Google Scholar to see if there are any other papers that I could've possibly missed that do delve into inflorescene with the aid of SEM.
+
+Paper 1: Kodaira, Eiichi, and Seiichi Fukai. "Floral initiation and development in three field-grown Allium species belonging to different sub-genera." The Journal of Horticultural Science and Biotechnology 80.6 (2005): 765-773.
+
+- In regards to Infloresecne development in Allium the general trend according to the paper is that first a vegetative shoot apex is formed. Then after the apex grows larger the spathe primodium differentiates. Following that there is a cascade of various floral differentiation occurs which eventually ends in stamen being present at the top of the floral inflorescence. Almost all of the inflorescence surfaces are occupied by developing flowers after the spathe primodium differentiates. This paper also nicely organized and labled the growth patterns/timing for Allium sphaerocephalon, Allium rosenbachianum, and Allium cowanii
+
+### 09/03/19 ###
+Working on creating an ASR today from my database. Got stuck at the write.csv part of the script. Hopefully will be able to troubleshoot/fix with Jesus. Also created Google Docs file for my first proposal. Thanks to Jesus for the example proposals that he sent me they were extremely helpful!
+
+### 09/10/19 ###
+Have been working with Jesus on my proposal and pulling together refrences that could possible be used in the final product. Was having an issue with making my ASR output correctly but turns out that I was using the wrong tree. It was confusing why it took a second for anything to be compiled but now I know it was becuase it was attempting to comb through thousands of speices for only a ~200 species dataset.
+
+### 09/17/19 ###
+Met with Jesus earlier and we have started finalizing a rough 1st draft that can be sent over to Chelsea. Hopefully she will get a chance to go over my proposal and possibly help me flesh out additional areas that could be possibly funded by a grant. I will also be presenting a slide in lab meeting next week so that should be exciting.
+
+### 09/24/19 ###
+The presentation of my slide in lab meeting went pretty well. I am very grateful to have Jesus in my corner to push me to do things taht I otherwise wouldn't seek out. I was finally able to get some good preliminary data our of my ancestral state reconstrution and I am hoping to include this as a figure in my propsal. It seems like the Lillialies order is raceme derived at this point in time which is kind of disappointing becuase I had my money on Umbel. My proposal has be sent to Chelsea and hopefully I'll be able to get feedback before the October 4th deadline.
+
+### 10/02/19 ###
+Today I met with Jesus again to put the finishing touches on my proposal. At this point I'm not sure how it could get any better. I was also able to contact a fellow undergraduate in the lab and we exhanged propsals to see if we could give each other some feedback. Can't wait to data collection again so that I will be able to have a more robust inference.
